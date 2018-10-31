@@ -1,11 +1,11 @@
-# CSS Box Style Code Along
+l# CSS Box Style Code Along
 
 ## Overview
 
 In this code along exercise we will apply some CSS box styles such as
 background images, gradients, drop shadows, and borders. All the files you need
 to follow along are provided and opening this code along on the in-browser IDE
-will fork and clone down a copy for you, but if you would like to continue
+will fork and clone down a copy for you, but if you would like
 working from your personal `exceptional-realty` repository:
 
 ```
